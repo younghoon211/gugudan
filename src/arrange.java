@@ -8,7 +8,7 @@ public class arrange {
 
 			for (int i = 0; i < result.length; i++) {
 
-				result[i] = n * (i + 1);
+				result[i] = n * (i + 2);
 
 				System.out.println(result[i]);
 
